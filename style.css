@@ -7,4 +7,9 @@ button {
     height: 50px;
     border-radius: 50px;
     border: none;
+    background: none;
+}
+
+.carousel-items > button {
+    background-color: white;
 }
